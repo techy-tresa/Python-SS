@@ -54,7 +54,7 @@ print(value) # Output: 36, printing the value associated with the key 6
 tuple= (12,14)
 etc= {tuple: 26} #dictionary with tuple as key and integer as value
 print(etc) # Output: {(12, 14): 26}, printing the dictionary
-=======
+
 mydict = {"name": "Tresa", "age": 20, "occupation": "Engineer", "city": "New Delhi", "country": "India"} #dictionary with key-value pairs
 print(mydict) # Output: {'name': 'Tresa', 'age': 20, 'occupation': 'Engineer', 'city': 'New Delhi', 'country': 'India'}, printing the dictionary
 
@@ -110,4 +110,3 @@ print(value) # Output: 36, printing the value associated with the key 6
 tuple= (12,14)
 etc= {tuple: 26} #dictionary with tuple as key and integer as value
 print(etc) # Output: {(12, 14): 26}, printing the dictionary
->>>>>>> ddece29d48cfaa508d442a69fc93d798dd484c2c

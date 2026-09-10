@@ -66,7 +66,7 @@ a.add(6)
 print(a) #frozenset object does not support item assignment, so this will raise an AttributeError   
 
 '''union, intersection etc can work with frozensets but no add, remove etc.'''
-=======
+
 myset={[1,2,3],4,5, 4, 5, 10, 12 } #set with integer values
 print(myset) # Output: {1, 2, 3, 4, 5, 10, 12}, printing the set
 
@@ -134,4 +134,3 @@ a.add(6)
 print(a) #frozenset object does not support item assignment, so this will raise an AttributeError   
 
 '''union, intersection etc can work with frozensets but no add, remove etc.'''
->>>>>>> ddece29d48cfaa508d442a69fc93d798dd484c2c
