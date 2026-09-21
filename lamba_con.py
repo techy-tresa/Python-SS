@@ -1,7 +1,6 @@
 #lambda arguments: expression
 from functools import reduce
 
-
 add10 = lambda x : x +10
 print(add10(5)) # Output: 15
 

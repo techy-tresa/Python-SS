@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 myset={[1,2,3],4,5, 4, 5, 10, 12 } #set with integer values
 print(myset) # Output: {1, 2, 3, 4, 5, 10, 12}, printing the set
 

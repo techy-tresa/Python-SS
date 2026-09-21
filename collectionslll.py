@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #collection: counter, namedtuple, OrderedDict, defaultdict, deque, ChainMap, UserDict, UserList, UserString
 from collections import Counter
 a= "abcdabcd"
@@ -55,7 +55,6 @@ print(d) # Output: deque([3, 6, 5, 4, 1, 2]) gives the deque object after rotati
 d.rotate(-1)
 print(d) # Output: deque([6, 5, 4, 1, 2, 3]) gives the deque object after rotating to the left by 1 
 
-=======
 #collection: counter, namedtuple, OrderedDict, defaultdict, deque, ChainMap, UserDict, UserList, UserString
 from collections import Counter
 a= "abcdabcd"

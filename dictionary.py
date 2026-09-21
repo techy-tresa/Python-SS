@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 mydict = {"name": "Tresa", "age": 20, "occupation": "Engineer", "city": "New Delhi", "country": "India"} #dictionary with key-value pairs
 print(mydict) # Output: {'name': 'Tresa', 'age': 20, 'occupation': 'Engineer', 'city': 'New Delhi', 'country': 'India'}, printing the dictionary
 
